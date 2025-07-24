@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Suleiman, a Python developer from Nigeria<br><br>- 🔭 I’m working as a freelancer designing APIs, automated workflows, bots and small desktop applications.<br>- 🧠 I have a B.Sc. in Computer Science<br>- 📚 I'm currently learning Apache Airflow, n8n and Redis<br>- ⚡ In my free time I read, play League of Legends and binge watch Parks and Rec<br>- 💬 Ask me about Varus<br>- 📫 How to reach me suleyman.abba@gmail.com</p>
+<p align="left">I'm Suleiman, a Python developer from Nigeria<br><br>- 🔭 I’m working as a freelancer designing APIs, automated workflows, bots and small desktop applications.<br>- 🧠 I have a B.Sc. in Computer Science<br>- 📚 I'm currently learning Apache Airflow, n8n and Redis<br>- ⚡ In my free time I read, play League of Legends and binge watch sitcoms<br>- 💬 Ask me about Selenium<br>- 📫 How to reach me suleyman.abba@gmail.com</p>
 
 ###
 
@@ -119,10 +119,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulayman-ma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Language%20Distribution%20%F0%9F%93%8A" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Sulayman-ma&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sulayman-ma/Sulayman-ma/output/snake.svg" alt="Snake animation" />
 
 ###
 
