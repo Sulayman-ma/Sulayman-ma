@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Suleiman, a Python developer from Nigeria<br><br>- 🔭 I’m working as a freelancer designing APIs, automated workflows, bots and small desktop applications.<br>- 🧠 I have a B.Sc. in Computer Science<br>- 📚 I'm currently learning Apache Airflow, n8n and Redis<br>- ⚡ In my free time I read, play League of Legends and binge watch sitcoms<br>- 💬 Ask me about Varus<br>- 📫 How to reach me suleyman.abba@gmail.com</p>
+<p align="left">I'm Suleiman, a Python developer from Nigeria<br><br>- 🔭 I’m working as a freelancer designing APIs, automated workflows, bots and small desktop applications.<br>- 🧠 I have a B.Sc. in Computer Science<br>- 📚 I'm currently learning Apache Airflow, n8n and Redis<br>- ⚡ In my free time I read, play League of Legends and binge watch sitcoms<br>- 💬 Ask me about Varus<br>- 📫 How to reach me [Email](suleyman.abba@gmail.com)</p>
 
 ###
 
