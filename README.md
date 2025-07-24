@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Suleiman, a Python developer from Nigeria<br><br>- 🔭 I’m working as a freelancer designing APIs, automated workflows, bots and small desktop applications.<br>- 🧠 I have a B.Sc. in Computer Science<br>- 📚 I'm currently learning Apache Airflow, n8n and Redis<br>- ⚡ In my free time I read, play League of Legends and binge watch sitcoms<br>- 💬 Ask me about Selenium<br>- 📫 How to reach me suleyman.abba@gmail.com</p>
+<p align="left">I'm Suleiman, a Python developer from Nigeria<br><br>- 🔭 I’m working as a freelancer designing APIs, automated workflows, bots and small desktop applications.<br>- 🧠 I have a B.Sc. in Computer Science<br>- 📚 I'm currently learning Apache Airflow, n8n and Redis<br>- ⚡ In my free time I read, play League of Legends and binge watch Parks and Rec<br>- 💬 Ask me about Varus<br>- 📫 How to reach me suleyman.abba@gmail.com</p>
 
 ###
 
@@ -115,18 +115,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sulayman-ma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulayman-ma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=Language%20Distribution%20%F0%9F%93%8A" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sulayman-ma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sulayman-ma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats%20%F0%9F%93%88" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sulayman-ma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Language%20Distribution%20%F0%9F%93%8A" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Sulayman-ma&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sulayman-ma/Sulayman-ma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sulayman-ma/Sulayman-ma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sulayman-ma/Sulayman-ma/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Sulayman-ma/Sulayman-ma/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="320" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 ###
