@@ -30,7 +30,21 @@
 
 ###
 
-<p align="left">I'm Suleiman, a Python developer from Nigeria<br><br>- 🔭 I’m working as a freelancer designing APIs, automated workflows using make and n8n, bots (Discord & Telegram) and small desktop applications.<br>- 🧠 I have a B.Sc. in Computer Science<br>- 📚 I'm currently learning Apache Airflow, n8n and Redis<br>- ⚡ In my free time I read, play League of Legends and binge watch sitcoms<br>- 💬 Ask me about Varus</p>
+<p align="left">
+I'm Suleiman, a Python developer from Nigeria. I enjoy building efficient backend systems and solving complex automation challenges.
+  <br><br>
+  
+  - 🎓 B.Sc. in Computer Science.
+  - 🔭 **Backend Development**: Designing REST APIs with <b>FastAPI</b> and <b>Flask</b>, with a focus on robust architecture and performance.
+  - 🛡️ **Web Automation**: Building sophisticated scrapers and bypassing modern bot detection using <b>curl-cffi</b>, <b>nodriver</b>, and <b>selenium</b> amongst other tools.
+  - 🤖 **Workflows**: Creating automated systems using <b>n8n</b>, <b>make.com</b>, and custom Python scripts.
+  - 🌐 **Frontend**: Occasionally working with <b>Next.js</b> and <b>Tailwind CSS</b>.
+  <br><br>
+
+  - 📚 Currently learning to use <b>Neovim</b>.
+  - ⚡ In my free time, I’m reading, watching sci-fi & sitcoms, or playing <b>League of Legends</b>.
+  - 💬 Ask me about <b>Aphelios</b> or <b>Varus</b>.
+</p>
 
 ###
 
